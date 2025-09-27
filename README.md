@@ -8,3 +8,5 @@ The site includes:
 🔐 User Login & Registration  
 
 This project is perfect for beginners to practice frontend web development and basic authentication design.
+
+Author - Patel Akshit
